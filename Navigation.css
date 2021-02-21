@@ -1,0 +1,41 @@
+body {
+  margin:5px;
+  background-color: white;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  background-color:#111111;
+}
+li a {
+  display: block;
+  padding:16px;
+  color:white;
+}
+#navigation ul {
+  background-color: #333333;
+  margin:0px;
+  padding:10px;
+  overflow:hidden;
+}
+#navigation li {
+  display:inline;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: x-large;
+  color: blue;
+  text-transform:uppercase;
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  float:inline-start;
+  padding: 15px;
+}
+#navigation li:hover {
+  background-color:#111111 ;
+}
+h1 {
+  text-align: center;
+}
