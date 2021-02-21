@@ -1,6 +1,6 @@
 body {
   margin:5px;
-  background-color: white;
+  background-color: whitesmoke;
 }
 a {
   text-decoration: none;
@@ -38,4 +38,50 @@ li a {
 }
 h1 {
   text-align: center;
+  background-color: blue;
+}
+#personal-info p {
+ position:static;
+ left: opx;
+ right: 150px;
+}
+#statement h2 {
+  color: blue;
+ background-color: #111111;
+}
+#qualifications h2 {
+  color: blue;
+ background-color: #111111;
+}
+#experience h2 {
+  color: blue;
+ background-color: #111111;
+}
+#experience p {
+  text-transform: uppercase;
+  font-weight:800;
+  color: blue;
+}
+#skills h2 {
+  color: blue;
+ background-color: #111111;
+}
+#hobbies h2 {
+  color: blue;
+ background-color: #111111;
+}
+#languages h2 {
+  color: blue;
+ background-color: #111111;
+}
+#references h2 {
+  color: blue;
+ background-color: #111111;
+}
+#footer h2 {
+  color: blue;
+ background-color: #111111;
+}
+#footer p {
+  text-align: right;
 }
